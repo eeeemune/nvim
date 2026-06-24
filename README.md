@@ -1,6 +1,7 @@
-# Pretty Neovim Personal Config
+# Neovim Personal Config
 
 My Neovim config. Nothing fancy (still it's colorful/beautiful💓), just the stuff I actually use. For you whose eyes are always tired, I designed the colors so that the keywords remain clearly visible even when viewed upside down. 
+<img width="1025" height="855" alt="image" src="https://github.com/user-attachments/assets/122c4cdc-1ad2-432e-a35f-796fb2f18ec2" />
 
 ## The vibe
 
